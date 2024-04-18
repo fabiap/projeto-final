@@ -23,6 +23,7 @@
 			width: 100%;
 			z-index: 1;
 		}
+		
 		@media(min-width: 300px) and (max-width: 820px){
 			header{
 				background: linear-gradient(to right, #0000CD, #00BFFF);
